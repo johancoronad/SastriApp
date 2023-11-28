@@ -7,7 +7,7 @@ class Conexion{
 
         // Las valores de las variables según los datos del hosting
         $user ="root";
-        $pass = "";
+        $pass = "12345678";
         $host = "localhost";
         $db = "sastriapp";
 
